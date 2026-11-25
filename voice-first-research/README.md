@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🎙️ 4Lunches, voice research
+# 🎙️ Voice-first customer research
 
 ### *hear why they buy. customers talk, in their own language.*
 
 ![voice skin](shots/02-voice-skin.jpg)
 
-`voice research` · `landing page` · `two skins` · `multilingual` · `× ShopOS concept` · `nov 2026`
+`voice research` · `landing page` · `two skins` · `multilingual` · `nov 2026`
 
 </div>
 
@@ -30,7 +30,7 @@
  4. 🔀  two skins, one page
  5. 🍱  the bento
  6. 🧪  a mock study
- 7. 🧭  what we reverse-engineered
+ 7. 🧭  what it learned from
  8. 🛠️  how to make your own
  9. 🚀  possibilities
 10. 📚  lessons
@@ -317,7 +317,7 @@ A Tamil phrase stays Tamil until the very end. 🌐
 
 ---
 
-## 🧭 7. what we reverse-engineered
+## 🧭 7. what it learned from
 
 This page started as a study of a voice-research product site.
 We pulled it apart, then rebuilt the idea for India. 🇮🇳
@@ -476,6 +476,6 @@ The interviewer's best tool is saying nothing. The second thought is the gold.
             hear why they buy. 🛒
 ```
 
-*part of [reverse-engineered](../README.md) by [sai](https://5aitec.com) · made with Claude*
+*by [sai](https://5aitec.com) · made with Claude · more on [github.com/saitec](https://github.com/saitec)*
 
 </div>

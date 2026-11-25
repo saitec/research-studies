@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🎬 Reel Kits
+# 🎬 Video style kits
 
 ### *three kits for making short videos: clay, chalk, and cinema.*
 
-![claysci board](shots/01-claysci-board-rules.jpg)
+![clay board](shots/01-clay-board-rules.jpg)
 
 `short-form video` · `skill files` · `Remotion` · `claymation` · `explainers` · `nov 2026`
 
@@ -15,9 +15,9 @@
 > 🎬 **what this is.**
 > three "kits" for making short-form reels with Claude.
 > each kit is a reference board, a set of rules, and real files.
-> 🧱 **ClaySci**: a board of 33 clay reels, turned into rules.
+> 🧱 **Clay science**: a board of 33 clay reels, turned into rules.
 > 🖍️ **Chalkboard**: a hand-drawn explainer kit, with a code pipeline.
-> 🎞️ **Crafeed**: a cinematic ad kit built in Remotion.
+> 🎞️ **Cinematic ads**: a kit built in Remotion.
 > the idea: stop prompting from scratch. build a kit once, reuse it forever.
 
 ---
@@ -27,11 +27,11 @@
 ```
  1. 🍿  the short version
  2. 🎲  why "just prompt it" fails for video
- 3. 🧱  ClaySci: the clay board
+ 3. 🧱  Clay science: the clay board
  4. 🖍️  Chalkboard: the explainer kit
- 5. 🎞️  Crafeed: the cinematic kit
+ 5. 🎞️  Cinematic ads: the ad kit
  6. 🧩  what every kit has in common
- 7. 🧭  how we reverse-engineered the styles
+ 7. 🧭  how we studied the styles
  8. 🛠️  how to build your own kit
  9. 🚀  possibilities
 10. 📚  lessons
@@ -94,9 +94,9 @@ A kit cuts the bad ones before they happen.
 
 ---
 
-## 🧱 3. ClaySci: the clay board
+## 🧱 3. Clay science: the clay board
 
-**ClaySci** is my claymation science style.
+**Clay science** is a claymation explainer style.
 Clay props. Real footage in clay frames. Deadpan voice.
 
 The kit started as a board.
@@ -108,7 +108,7 @@ Each reel taught a rule.
 Eight made the cut:
 
 ```
-   🧱 CLAYSCI RULES
+   🧱 CLAY RULES
 
    1. 📺 Ad first       open with the real ad or product. hook = reality.
    2. 🎞️ Big b-roll     real footage, shown big, inside clay screens.
@@ -132,7 +132,7 @@ Mix to that and your reel doesn't get squashed. 🎚️
 
 ### ✅ default vs ❌ avoid
 
-![default vs avoid](shots/02-claysci-default-vs-avoid.jpg)
+![default vs avoid](shots/02-clay-default-vs-avoid.jpg)
 
 The board shows pairs.
 What to do. What to avoid.
@@ -155,7 +155,7 @@ The clay texture already says "handmade". ✋
 
 ### 🧪 the model bake-off
 
-![scenes and bake-off](shots/03-claysci-scenes-and-model-bakeoff.jpg)
+![scenes and bake-off](shots/03-clay-scenes-and-model-bakeoff.jpg)
 
 The board ends with a bake-off.
 Same scene. Several video models.
@@ -181,10 +181,10 @@ Then the kit just uses it. 🧱
 
 **Chalkboard** is for "how does it work" explainers.
 A dark board. Chalky lines that draw themselves.
-Apple emoji as icons. My cloned voice reading.
+Apple emoji as icons. A cloned voice reading.
 Karaoke captions underneath. 🎤
 
-It was built for a series called *Bitter Lessons*.
+It was built for a series of short lessons.
 Short lessons about AI and tech.
 
 ### 🔧 how it works
@@ -194,7 +194,7 @@ Short lessons about AI and tech.
 
    ✍️ script
      ↓
-   🗣️ voice        (my cloned voice, Saitec)
+   🗣️ voice        (a cloned voice)
      ↓
    ⏱️ word timings  (when each word is said)
      ↓
@@ -245,11 +245,11 @@ Look, fix, look again. In minutes.
 
 ---
 
-## 🎞️ 5. Crafeed: the cinematic kit
+## 🎞️ 5. Cinematic ads: the ad kit
 
-![crafeed kit](shots/06-crafeed-cinematic-kit.jpg)
+![cinematic kit](shots/06-cinematic-kit.jpg)
 
-**Crafeed** makes ads and ad teardowns.
+This kit makes ads and ad teardowns.
 So it needed a different feel. Cinematic.
 Big type. Hard cuts. Real product footage.
 
@@ -259,7 +259,7 @@ Each scene is a component.
 Each animation is a number you can tweak. ⚛️
 
 ```
-   🎞️ CRAFEED KIT v6
+   🎞️ CINEMATIC KIT v6
 
    ┌──────────────────────────────────────┐
    │ 🎬 scenes       hook, problem, proof, │
@@ -294,14 +294,14 @@ Some briefs want exactly that look. 🗃️
 ## 🗓️ 5½. a day with a kit
 
 What does using a kit actually look like?
-Say I want a ClaySci reel about a new phone. 📱
+Say I want a clay reel about a new phone. 📱
 
 ```
    🗓️ ONE REEL, WITH A KIT
 
    09:00  ✍️ write the script (60-80 s, one idea)
    09:20  📺 grab the real ad + product footage
-   09:40  🧱 load ClaySci → rules + props + default model
+   09:40  🧱 load the clay kit → rules + props + default model
    10:00  🎨 stills first: one keyframe per scene
    10:30  👀 check stills against the do/avoid board
    11:00  🎬 animate only the stills that passed
@@ -369,7 +369,7 @@ No preview? You waste renders. 💸
 
 ---
 
-## 🧭 7. how we reverse-engineered the styles
+## 🧭 7. how we studied the styles
 
 Each kit came from studying reels I loved.
 Not copying them. Pulling them apart.
@@ -393,7 +393,7 @@ A pattern across 30 reels is a rule. 📏
 And step 7 never really ends.
 Every new reel tests the rules.
 When one breaks, the kit gets updated.
-That's why Crafeed is on v6.
+That's why the cinematic kit is on v6.
 
 Credit where it's due:
 the styles are inspired by creators I watch.
@@ -450,7 +450,7 @@ Fix before anyone sees it. ✅
 
 **🧑‍🏫 Kits as skills** is already half true.
 Each kit lives as a skill file.
-Say "make a ClaySci reel" and the rules load.
+Say "make a clay reel" and the rules load.
 The kit becomes a teammate. 🤝
 
 ---
@@ -492,12 +492,12 @@ Experiment freely. Kit it once it works three times.
 <div align="center">
 
 ```
-    🧱 ClaySci       🖍️ Chalkboard       🎞️ Crafeed
+    🧱 Clay          🖍️ Chalkboard       🎞️ Cinema
     clay + real      chalk + voice       cinema + cuts
         └──────────────┬──────────────────┘
                 build once. reuse forever. 🧰
 ```
 
-*part of [reverse-engineered](../README.md) by [sai](https://5aitec.com) · made with Claude*
+*by [sai](https://5aitec.com) · made with Claude · more on [github.com/saitec](https://github.com/saitec)*
 
 </div>

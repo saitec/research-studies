@@ -1,22 +1,22 @@
 <div align="center">
 
-# 📱 5aitec, the phone
+# 📱 A personal site as a phone OS
 
 ### *a personal site that opens like an iPhone. lock screen, notifications, apps.*
 
 ![lock screen](shots/01-lock-screen-notifications.jpg)
 
-`personal site` · `portfolio` · `iOS-style UI` · `5aitec.com` · `nov 2026`
+`personal site` · `portfolio` · `iOS-style UI` · `nov 2026`
 
 </div>
 
 ---
 
 > 📱 **what this is.**
-> my personal site, [5aitec.com](https://5aitec.com), rebuilt as a phone.
+> a personal portfolio site, rebuilt as a phone.
 > you land on a lock screen. there's a photo of me. the time. notifications.
 > swipe up and you're in. every part of my work is an app.
-> ShopOS. SeeIt. photos. notes. book a call.
+> companies. side projects. photos. notes. book a call.
 > it's a portfolio you already know how to use. 👆
 
 ---
@@ -29,7 +29,7 @@
  3. 🔒  the lock screen
  4. 🔔  notifications as a feed
  5. 🧩  apps as the work
- 6. 🧭  what we reverse-engineered
+ 6. 🧭  what it learned from
  7. 🐛  what broke in capture
  8. 🛠️  how to make your own phone site
  9. 🚀  possibilities
@@ -107,7 +107,7 @@ Just like your phone.
    │             3:07              │  ← live date & time
    │                               │
    │      [ photo: me in a         │
-   │        Vision Pro ]  🥽        │  ← the wallpaper
+   │        headset ]  🥽           │  ← the wallpaper
    │                               │
    │  🔔 notification              │
    │  🔔 notification              │
@@ -124,7 +124,7 @@ Your date. Your time.
 It feels alive from second one.
 
 **🥽 The wallpaper is me.**
-In a Vision Pro.
+In a VR headset.
 Because I spent years in spatial computing.
 The photo tells that story without a word.
 
@@ -149,16 +149,16 @@ Dressed up as notifications.
    🔔 NOTIFICATIONS = WHAT'S NEW
 
    ┌──────────────────────────────────────┐
-   │ 🟣 ShopOS                     now     │
-   │ Meet ShopOS V5 — AI agents plus       │
-   │ human squads…                         │
+   │ 🟣 Company                    now     │
+   │ Meet V5 of the product — big launch,  │
+   │ new features…                         │
    ├──────────────────────────────────────┤
    │ ✍️ Notes                      2m      │
-   │ Leave Sai a note ✍️ … goes straight   │
+   │ Leave me a note ✍️   … goes straight   │
    │ into Testimonials                     │
    ├──────────────────────────────────────┤
    │ 📸 Instagram                  1h      │
-   │ New on @5aitec                        │
+   │ New post on my feed                   │
    └──────────────────────────────────────┘
 ```
 
@@ -195,7 +195,7 @@ A notification that changes weekly feels *normal*. 🔄
 ```
    WEEK 1    🔔 launch V5     🔔 leave a note   🔔 new reel
    WEEK 2    🔔 a talk        🔔 leave a note   🔔 new essay
-   WEEK 3    🔔 SeeIt update  🔔 leave a note   🔔 new reel
+   WEEK 3    🔔 lab update   🔔 leave a note   🔔 new reel
                                ▲
                      the ask stays pinned
 ```
@@ -231,7 +231,7 @@ Each app is a part of my world.
    THE HOME SCREEN 🧩
 
    ┌──────────────────────────────┐
-   │  🟣 ShopOS    👓 SeeIt        │
+   │  🟣 Company   👓 Lab          │
    │  📸 Photos    📝 Notes        │
    │  ✍️ Testimonials  📅 Book a call│
    │                               │
@@ -240,10 +240,10 @@ Each app is a part of my world.
    └──────────────────────────────┘
 ```
 
-**🟣 ShopOS** opens the company.
+**🟣 Company** opens the main company.
 What it does. What's new.
 
-**👓 SeeIt** opens the glasses lab.
+**👓 Lab** opens the side project.
 Open-source AI smart glasses.
 
 **📸 Photos** is a camera roll.
@@ -344,7 +344,7 @@ A slide that tracks your thumb feels like a phone. 👍
 
 ---
 
-## 🧭 6. what we reverse-engineered
+## 🧭 6. what it learned from
 
 The reference was obvious: iOS.
 But copying iOS isn't the point.
@@ -413,7 +413,7 @@ And it costs one line of code. ✅
 
 That's going on the fix list. 📝
 So the shots in this folder are the lock screen only.
-Open [5aitec.com](https://5aitec.com) to see the rest.
+Open the live site to see the rest.
 
 ---
 
@@ -461,7 +461,7 @@ centred on a soft background.
 ```
 
 The **messages app** is the big one.
-Text "what's ShopOS?" and get an answer.
+Text "what do you build?" and get an answer.
 From an agent that knows all my work.
 A portfolio that talks back. 💬
 
@@ -520,6 +520,6 @@ A lock screen that stutters isn't a phone. Keep it light.
       your work, as a phone. 📱
 ```
 
-*part of [reverse-engineered](../README.md) by [sai](https://5aitec.com) · made with Claude*
+*by [sai](https://5aitec.com) · made with Claude · more on [github.com/saitec](https://github.com/saitec)*
 
 </div>
